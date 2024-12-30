@@ -3,17 +3,17 @@
 <div align="center">
 
 
-  
-<a href="https://github.com/LEMettler/strange-attractors">
-<p align="center">
- <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/72-bw.png" width="40%"/>
-<img src="https://github.com/LEMettler/strange-attractors/blob/main/data/multicolor/py5_plots/7-color.png" width="40%"/>
 
- 
-  <br> <i>Strange Attractors</i>
+<a href="https://gist.github.com/LEMettler/9845b8776cfea9f94b783f2b1effde55">
+<p align="center">
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj1.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj0.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj2.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj3.jpg" width="40%"/>
+  <br> <i>Sienna and Jade</i>
 </p>
 </a>
-Random strange attractors from 2 dimensional system of equations. Visualization is handeled with Python and processing while the datapoints are calculated in C++.
+Generative, dotted scenes of sandstone mountains.
 
 
 <br>
@@ -21,7 +21,6 @@ Random strange attractors from 2 dimensional system of equations. Visualization 
 <br>
 <br>
 <br>
-
 
 
 <a href="https://gist.github.com/LEMettler/3f976f8d30c0aaafde074d8004e31cc6">
@@ -59,23 +58,20 @@ Generative, abstract icewalls and icebergs in py5, processing for python.
 <br>
 
 
-
-<a href="https://gist.github.com/LEMettler/9845b8776cfea9f94b783f2b1effde55">
+  
+<a href="https://github.com/LEMettler/strange-attractors">
 <p align="center">
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj1.jpg" width="40%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj0.jpg" width="40%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj2.jpg" width="40%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj3.jpg" width="40%"/>
-  <br> <i>Sienna and Jade</i>
+ <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/72-bw.png" width="80%"/>
+ 
+  <br> <i>Strange Attractors</i>
 </p>
 </a>
-Generative, dotted scenes of sandstone mountains.
+Random strange attractors from 2 dimensional system of equations. Visualization is handeled with Python and processing while the datapoints are calculated in C++.
 
 
 <br>
 <br>
 <br>
-
 
 
 </div>

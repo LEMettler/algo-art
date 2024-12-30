@@ -6,7 +6,10 @@
   
 <a href="https://github.com/LEMettler/strange-attractors">
 <p align="center">
- <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/72-bw.png" width="50%"/>
+ <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/72-bw.png" width="40%"/>
+<img src="https://github.com/LEMettler/strange-attractors/blob/main/data/multicolor/py5_plots/7-color.png" width="40%"/>
+
+ 
   <br> <i>Strange Attractors</i>
 </p>
 </a>
@@ -23,7 +26,10 @@ Random strange attractors from 2 dimensional system of equations. Visualization 
 
 <a href="https://gist.github.com/LEMettler/3f976f8d30c0aaafde074d8004e31cc6">
 <p align="center">
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-1.jpg" width="50%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-1.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-3.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-0.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-2.jpg" width="40%"/>
   <br> <i>Dotted Desert Dunes</i>
 </p>
 </a>
@@ -39,7 +45,8 @@ Generative Dunes from a bird-eye view in py5, processing for python. The code is
 
 <a href="https://gist.github.com/LEMettler/1f92ed571c85c81296a31ef80d330745">
 <p align="center">
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/biat_646.jpg" width="70%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/biat_646.jpg" width="80%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/biat_006.jpg" width="80%"/>
   <br> <i>Ice and Time</i>
 </p>
 </a>

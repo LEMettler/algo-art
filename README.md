@@ -27,8 +27,8 @@ Generative, dotted scenes of sandstone mountains.
 <p align="center">
  <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-1.jpg" width="40%"/>
  <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-3.jpg" width="40%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-0.jpg" width="40%"/>
  <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-2.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-0.jpg" width="40%"/>
   <br> <i>Dotted Desert Dunes</i>
 </p>
 </a>

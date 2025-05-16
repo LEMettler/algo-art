@@ -1,7 +1,29 @@
-# Algorithmic Art
-  
 <div align="center">
+  
+# Algorithmic Art
 
+
+<p align="center">
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/s0.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/s1.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/s2.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/s3.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/o0.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/o1.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/o2.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/o3.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/g0.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/g1.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/g2.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/g3.jpg" width="40%"/>
+  <br> <i>Alpine Series</i>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <a href="https://gist.github.com/LEMettler/9845b8776cfea9f94b783f2b1effde55">

@@ -25,6 +25,21 @@
 <br>
 <br>
 
+<p align="center">
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/bwnoname/nn0.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/bwnoname/nn1.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/bwnoname/nn2.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/src/bwnoname/nn3.jpg" width="40%"/>
+
+  <br> <i>No name yet</i>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <a href="https://gist.github.com/LEMettler/9845b8776cfea9f94b783f2b1effde55">
 <p align="center">

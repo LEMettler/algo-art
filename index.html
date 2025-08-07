@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="neutral">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Algorithmic Art</title>
+  <link rel="stylesheet" href="resources/styles.css">
+  <link rel="stylesheet" href="resources/gallery-styles.css">
+  <script src="resources/theme-script.js"></script>
+  <script src="resources/gallery-script.js"></script>
+  <link rel="icon" href="resources/favicon-16x16.png" type="favicon-16x16.png" /> 
+</head>
+
+<body>
+
+<div class="container">
+<div class="content">
+
+    <div class="typewriter">
+    <h1>Algorithmic Art</h1>
+    </div>
+    
+    <script>
+      // make sure html is parsed and we can safely preload
+      document.addEventListener("DOMContentLoaded", function () {
+      // load image data and preload a project
+      projectData = {
+        "alp": {
+          "count": 12,
+          "columns": 4,
+          "description": "<h3>Alpine Series</h3>"
+        },
+        "sj": {
+          "count": 4,
+          "columns": 2,
+          "description": "<h3>Sienna and Jade</h3>"
+        },
+        "nn": {
+          "count": 4,
+          "columns": 2,
+          "description": "<h3>No Name</h3>"
+        },
+      "iat": {
+          "count": 4,
+          "columns": 2,
+          "description": "<h3>Ice and Time</h3>"
+        },
+      "ddd": {
+          "count": 6,
+          "columns": 3,
+          "description": "<h3>Dotted Desert Dunes</h3>"
+        }
+      };
+      loadProject('images', 'alp');
+    });  
+    </script>
+
+    <ul class="horizontal-links">
+        <!-- parameters: folder name, number of images, images per row -->
+      <li><button onclick="loadProject('images', 'alp')">Alpine Series</button></li>
+      <li><button onclick="loadProject('images', 'nn')">No Name</button></li>
+      <li><button onclick="loadProject('images', 'sj')">Sienna and Jade</button></li>
+      <li><button onclick="loadProject('images', 'iat')">Ice and Time</button></li>
+      <li><button onclick="loadProject('images', 'ddd')">Dotted Desert Dunes</button></li>
+    </ul>  
+
+
+
+    <div id="image-grid" class="image-grid">
+      <!-- this will hold the images -->
+    </div>
+
+    <div id="project-description" class="project-description"></div>
+
+
+    <!-- modal for full image view -->
+    <div id="modal" class="modal" onclick="closeModal()">
+      <span class="close">&times;</span>
+      <span class="arrow left" onclick="event.stopPropagation(); showNext(-1)">&#10094;</span>
+      <img class="modal-content" id="modal-img">
+      <span class="arrow right" onclick="event.stopPropagation(); showNext(1)">&#10095;</span>
+    </div>
+
+    <p class="copyright-note">&#169 2025 LEMettler. All rights reserved.</p>
+    
+  </div>
+  </div>
+
+  <p class="footer-note">
+    <a href="https://lemettler.github.io/">> Main</a>
+    <br>
+    <a href="https://lemettler.github.io//privacy.html">> Privacy Policy</a>
+  </p>
+            
+</body>
+
+</html>

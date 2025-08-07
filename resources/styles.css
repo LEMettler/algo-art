@@ -1,0 +1,365 @@
+/* Main theme
+https://coolors.co/fbf9ef-2a362e-242624-8b9556-fc8b22
+*/
+:root {
+    --text-color: hsl(50, 60%, 96%);
+    --link-color: hsl(50, 60%, 96%);
+    --background-color: hsl(140, 13%, 19%);
+    --content-bg-color: hsl(120, 3%, 15%);
+    --gradient-color-1: hsl(70, 27%, 46%);
+    --gradient-color-2: hsl(50, 60%, 96%);
+    --link-hover-color: hsl(29, 97%, 56%);
+    --preview-color-0: hsl(70, 27%, 46%);
+    --preview-color-1: hsl(115, 27%, 46%);
+    --preview-color-2: hsl(160, 27%, 46%);
+    --preview-color-3: hsl(205, 27%, 46%);
+    --preview-color-4: hsl(250, 27%, 46%);
+    --preview-color-5: hsl(295, 27%, 46%);
+    --preview-color-6: hsl(340, 27%, 46%);
+    --preview-color-7: hsl(365, 27%, 46%);
+
+    --preview-color-8: hsl(120, 33%,  70%);
+    --preview-color-9: hsl(165, 33%,  70%);
+    --preview-color-10: hsl(210, 33%, 70%);
+    --preview-color-11: hsl(255, 33%, 70%);
+    --preview-color-12: hsl(300, 33%, 70%);
+    --preview-color-13: hsl(345, 33%, 70%);
+    --preview-color-14: hsl(390, 33%, 70%);
+    --preview-color-15: hsl(435, 33%, 70%);
+}
+
+
+[data-theme="0"] {
+    --text-color: hsl(50, 60%, 96%);
+    --link-color: hsl(50, 60%, 96%);
+    --background-color: hsl(140, 13%, 19%);
+    --content-bg-color: hsl(120, 3%, 15%);
+    --gradient-color-1: hsl(70, 27%, 46%);
+    --gradient-color-2: hsl(50, 60%, 96%);
+    --link-hover-color: hsl(29, 97%, 56%);
+}
+[data-theme="1"] {
+    --text-color:       hsl(95, 60%, 96%);
+    --link-color:       hsl(95, 60%, 96%);
+    --background-color: hsl(185, 13%, 19%);
+    --content-bg-color: hsl(165, 3%, 15%);
+    --gradient-color-1: hsl(115, 27%, 46%);
+    --gradient-color-2: hsl(95, 60%, 96%);
+    --link-hover-color: hsl(74, 97%, 56%);
+}
+[data-theme="2"] {
+    --text-color:       hsl(140, 60%, 96%);
+    --link-color:       hsl(140, 60%, 96%);
+    --background-color: hsl(230, 13%, 19%);
+    --content-bg-color: hsl(210, 3%, 15%);
+    --gradient-color-1: hsl(160, 27%, 46%);
+    --gradient-color-2: hsl(140, 60%, 96%);
+    --link-hover-color: hsl(119, 97%, 56%);
+}
+[data-theme="3"] {
+    --text-color:       hsl(185, 60%, 96%);
+    --link-color:       hsl(185, 60%, 96%);
+    --background-color: hsl(275, 13%, 19%);
+    --content-bg-color: hsl(255, 3%, 15%);
+    --gradient-color-1: hsl(205, 27%, 46%);
+    --gradient-color-2: hsl(185, 60%, 96%);
+    --link-hover-color: hsl(164, 97%, 56%);
+}
+[data-theme="4"] {
+    --text-color:       hsl(230, 60%, 96%);
+    --link-color:       hsl(230, 60%, 96%);
+    --background-color: hsl(320, 13%, 19%);
+    --content-bg-color: hsl(300, 3%, 15%);
+    --gradient-color-1: hsl(250, 27%, 46%);
+    --gradient-color-2: hsl(230, 60%, 96%);
+    --link-hover-color: hsl(209, 97%, 56%);
+}
+[data-theme="5"] {
+    --text-color:       hsl(275, 60%, 96%);
+    --link-color:       hsl(275, 60%, 96%);
+    --background-color: hsl(365, 13%, 19%);
+    --content-bg-color: hsl(345, 3%, 15%);
+    --gradient-color-1: hsl(295, 27%, 46%);
+    --gradient-color-2: hsl(275, 60%, 96%);
+    --link-hover-color: hsl(254, 97%, 56%);
+}
+[data-theme="6"] {
+    --text-color:       hsl(320, 60%, 96%);
+    --link-color:       hsl(320, 60%, 96%);
+    --background-color: hsl(410, 13%, 19%);
+    --content-bg-color: hsl(390, 3%, 15%);
+    --gradient-color-1: hsl(340, 27%, 46%);
+    --gradient-color-2: hsl(320, 60%, 96%);
+    --link-hover-color: hsl(299, 97%, 56%);
+}
+[data-theme="7"] {
+    --text-color:       hsl(365, 60%, 96%);
+    --link-color:       hsl(365, 60%, 96%);
+    --background-color: hsl(455, 13%, 19%);
+    --content-bg-color: hsl(435, 3%, 15%);
+    --gradient-color-1: hsl(385, 27%, 46%);
+    --gradient-color-2: hsl(365, 60%, 96%);
+    --link-hover-color: hsl(344, 97%, 56%);
+}
+
+/* Light theme */
+
+[data-theme="8"] {
+    --text-color:       #1a1a1a;
+    --link-color:       #1a1a1a;
+    --content-bg-color: #ffffff;
+    --gradient-color-1: #bbbbbb;
+    --background-color: hsl(120, 33%, 88%);
+    --gradient-color-2: hsl(129, 30%, 36%);
+    --link-hover-color: hsl(29, 90%, 39%);
+}
+[data-theme="9"] {
+    --text-color:       #1a1a1a;
+    --link-color:       #1a1a1a;
+    --content-bg-color: #ffffff;
+    --gradient-color-1: #bbbbbb;
+    --background-color: hsl(165, 33%, 88%);
+    --gradient-color-2: hsl(174, 30%, 36%);
+    --link-hover-color: hsl(74, 90%, 39%);
+}
+[data-theme="10"] {
+    --text-color:       #1a1a1a;
+    --link-color:       #1a1a1a;
+    --content-bg-color: #ffffff;
+    --gradient-color-1: #bbbbbb;
+    --background-color: hsl(210, 33%, 88%);
+    --gradient-color-2: hsl(219, 30%, 36%);
+    --link-hover-color: hsl(119, 90%, 39%);
+}
+[data-theme="11"] {
+    --text-color:       #1a1a1a;
+    --link-color:       #1a1a1a;
+    --content-bg-color: #ffffff;
+    --gradient-color-1: #bbbbbb;
+    --background-color: hsl(255, 33%, 88%);
+    --gradient-color-2: hsl(264, 30%, 36%);
+    --link-hover-color: hsl(164, 90%, 39%);
+}
+[data-theme="12"] {
+    --text-color:       #1a1a1a;
+    --link-color:       #1a1a1a;
+    --content-bg-color: #ffffff;
+    --gradient-color-1: #bbbbbb;
+    --background-color: hsl(300, 33%, 88%);
+    --gradient-color-2: hsl(309, 30%, 36%);
+    --link-hover-color: hsl(209, 90%, 39%);
+}
+[data-theme="13"] {
+    --text-color:       #1a1a1a;
+    --link-color:       #1a1a1a;
+    --content-bg-color: #ffffff;
+    --gradient-color-1: #bbbbbb;
+    --background-color: hsl(345, 33%, 88%);
+    --gradient-color-2: hsl(354, 30%, 36%);
+    --link-hover-color: hsl(254, 90%, 39%);
+}
+[data-theme="14"] {
+    --text-color:       #1a1a1a;
+    --link-color:       #1a1a1a;
+    --content-bg-color: #ffffff;
+    --gradient-color-1: #bbbbbb;
+    --background-color: hsl(390, 33%, 88%);
+    --gradient-color-2: hsl(399, 30%, 36%);
+    --link-hover-color: hsl(299, 90%, 39%);
+}
+[data-theme="15"] {
+    --text-color:       #1a1a1a;
+    --link-color:       #1a1a1a;
+    --content-bg-color: #ffffff;
+    --gradient-color-1: #bbbbbb;
+    --background-color: hsl(435, 33%, 88%);
+    --gradient-color-2: hsl(444, 30%, 36%);
+    --link-hover-color: hsl(344, 90%, 39%);
+}
+
+[data-theme="neutral"] {
+    --text-color: hsl(0, 0%, 90%);
+    --link-color: hsl(0, 0%, 90%);
+    --background-color: hsl(0, 0%, 20%);
+    --content-bg-color: hsl(0, 0%, 25%);
+    --gradient-color-1: hsl(0, 0%, 40%);
+    --gradient-color-2: hsl(0, 0%, 80%);
+    --link-hover-color: hsl(29, 97%, 56%);
+}
+
+
+
+
+body {
+    background: var(--background-color);
+    font-family: monospace;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: var(--text-color);
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+}
+
+
+/* Gradient container */
+.container {
+    position: relative;
+    width: 90vw;
+    max-width: 500px;
+    padding: 5px;
+    border-radius: 0rem;
+    z-index: 1;
+}
+
+.container::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background: conic-gradient(
+    from var(--gradient-angle),
+    var(--gradient-color-1),
+    var(--gradient-color-1),
+    var(--gradient-color-2),
+    var(--gradient-color-1),
+    var(--gradient-color-1)
+    );
+    border-radius: inherit;
+    animation: rotation 15s linear infinite;
+}
+
+@property --gradient-angle {
+    syntax: "<angle>";
+    initial-value: 0deg;
+    inherits: false;
+}
+
+@keyframes rotation {
+    0% {
+    --gradient-angle: 0deg;
+    }
+    100% {
+    --gradient-angle: 360deg;
+    }
+}
+
+/* Content box (solid color inside gradient) */
+.content {
+    background-color: var(--content-bg-color);
+    border-radius: inherit;
+    padding: 30px;
+}
+
+/* Typewriter title */
+/* Credit: Geoff Graham , https://css-tricks.com/snippets/css/typewriter-effect/ */
+.typewriter h1 {
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    animation:
+        typing 5s steps(40, end) 0.25s forwards,
+        blink-caret step-end infinite 0.25s;
+}
+
+@keyframes typing {
+    from {
+    width: 0%;
+    }
+    to {
+    width: 100%;
+    }
+}
+
+@keyframes blink-caret {
+    from,
+    to {
+    border-color: transparent;
+    }
+}
+
+
+/* Text */
+p {
+    font-size: 1em;
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+
+/* Links */
+a {
+    color: var(--link-color);
+    text-decoration: underline;
+}
+
+a:hover {
+    color: var(--link-hover-color);
+}
+
+
+/* Main link box */
+.vertical-links {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-size: 1.4em;
+}
+
+/* Social link box */ 
+.horizontal-links {
+    list-style: none;
+    padding: 0;
+    margin: 25px 0 0 0;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    font-size: 0.85em;
+}
+
+
+.horizontal-links button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--link-color);
+  text-decoration: underline;
+  font-size: 1.0em;
+}
+
+.horizontal-links button:hover {
+  color: var(--link-hover-color);
+}
+
+
+/* Privacy footer */ 
+.footer-note {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0.75em;
+    color: var(--text-color);
+}
+
+/* Light/Dark mode button */
+.theme-toggle {
+    font-family: monospace;
+    border: none;
+    cursor: pointer;
+}
+
+.theme-toggle:hover {
+    color: var(--link-hover-color);
+}
+
+.theme-list {
+    position: absolute;
+    right: 10px;
+    list-style: none;
+    padding: 0;
+    margin: 5px 0 0 0;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}

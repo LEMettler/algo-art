@@ -4,18 +4,19 @@
 
 
 <p align="center">
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/s0.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/s1.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/s2.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/s3.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/o0.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/o1.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/o2.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/o3.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/g0.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/g1.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/g2.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/alpine/g3.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/alp/img0.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/alp/img1.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/alp/img2.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/alp/img3.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/alp/img4.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/alp/img5.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/alp/img6.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/alp/img7.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/alp/img8.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/alp/img9.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/alp/img10.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/alp/img11.jpg" width="40%"/>
+  
   <br> <i>Alpine Series</i>
 </p>
 
@@ -26,10 +27,10 @@
 <br>
 
 <p align="center">
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/bwnoname/nn0.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/bwnoname/nn1.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/bwnoname/nn2.jpg" width="40%"/>
-<img src="https://github.com/LEMettler/algo-art/blob/main/src/bwnoname/nn3.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/nn/img0.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/nn/img1.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/nn/img2.jpg" width="40%"/>
+<img src="https://github.com/LEMettler/algo-art/blob/main/images/nn/img3.jpg" width="40%"/>
 
   <br> <i>No name yet</i>
 </p>
@@ -43,10 +44,10 @@
 
 <a href="https://gist.github.com/LEMettler/9845b8776cfea9f94b783f2b1effde55">
 <p align="center">
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj1.jpg" width="40%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj0.jpg" width="40%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj2.jpg" width="40%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj3.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/images/sj/img0.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/images/sj/img1.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/images/sj/img2.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/images/sj/img3.jpg" width="40%"/>
   <br> <i>Sienna and Jade</i>
 </p>
 </a>
@@ -62,10 +63,10 @@ Generative, dotted scenes of sandstone mountains.
 
 <a href="https://gist.github.com/LEMettler/3f976f8d30c0aaafde074d8004e31cc6">
 <p align="center">
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-1.jpg" width="40%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-3.jpg" width="40%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-2.jpg" width="40%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-0.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/images/ddd/img0.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/images/ddd/img1.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/images/ddd/img2.jpg" width="40%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/images/ddd/img3.jpg" width="40%"/>
   <br> <i>Dotted Desert Dunes</i>
 </p>
 </a>
@@ -81,8 +82,10 @@ Generative Dunes from a bird-eye view in py5, processing for python. The code is
 
 <a href="https://gist.github.com/LEMettler/1f92ed571c85c81296a31ef80d330745">
 <p align="center">
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/biat_646.jpg" width="80%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/biat_006.jpg" width="80%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/images/iat/img0.jpg" width="80%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/images/iat/img1.jpg" width="80%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/images/iat/img2.jpg" width="80%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/images/iat/img3.jpg" width="80%"/>
   <br> <i>Ice and Time</i>
 </p>
 </a>
